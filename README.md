@@ -1,4 +1,5 @@
-## Hello there!
+## <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGm7iwh5wMzerXa%2Fgiphy.gif&f=1&nofb=1" height="20">Hello There!</a>
+
 
 My name is Nicolas Lattemann, I am currently studying at the [Ada Tech School](http://www.adatechschool.fr) located in the Paris metropolitan area.
 I am looking for an apprenticeship beginning in the fourth quartal of 2020.
