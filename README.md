@@ -5,7 +5,7 @@ I am looking for an apprenticeship beginning in the fourth quartal of 2020.
 
 ### About me:
 
-I'm germano-french and fluent in both languages, in addition I am also able to converse and write in english. I am an aspiring back-end developper with a strong affinity to Python.
+I'm germano-french and fluent in both languages, in addition, I am also able to converse and write in English. I am an aspiring back-end developer with a strong affinity to Python.
  
 - Student at [Ada Tech School](http://www.adatechschool.fr)
 - Improving my skills in Python currently using Django but also exploring new languages left and right
