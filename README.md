@@ -1,15 +1,15 @@
-## <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGm7iwh5wMzerXa%2Fgiphy.gif&f=1&nofb=1" height="20">Hello There!</a>
+## LOOKING FOR AN APPRENTICESHIP!
 
 
 My name is Nicolas Lattemann, I am currently studying at the [Ada Tech School](http://www.adatechschool.fr) located in the Paris metropolitan area.
-I am looking for an apprenticeship beginning in the fourth quartal of 2020.
+I am looking for an apprenticeship for a duration of 12 months beginning in the fourth quarter of 2020.
 
 ### About me:
 
-I'm germano-french and fluent in both languages, in addition, I am also able to converse and write in English. I am an aspiring back-end developer with a strong affinity to Python.
+I'm Franco-German and fluent in both languages, in addition, I am also able to converse fluently and to write in English. I am an aspiring back-end developer with a strong affinity to Python. My studies are focused on projects having a duration of 1 or 2 weeks with certain constraints, fixed languages or groups.
  
 - Student at [Ada Tech School](http://www.adatechschool.fr)
-- Improving my skills in Python currently using Django but also exploring new languages left and right
-- Interested by: Backend, Python
+- Improving my skills in Python currently using Django and have also been exploring new languages such as Go
+- Interested by: Backend, Python, Big Data
 - I love: Video games, Esports, Coding, Memes, Star Wars, Hiking, Diving
 - How to contact me: n.lattemann@gmail.com
